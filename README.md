@@ -1,1 +1,3 @@
-# POE-PART1
+This project, titled PROG5121 POE - Part 1, is a Java-based Registration and Login System developed as a Purpose of Evidence (POE) submission for the PROG5121 module.
+The application implements a secure Login class featuring strict validation methods: checkUserName (enforcing underscore usage and a 5-character limit), checkPasswordComplexity (requiring 8+ characters, capital letters, numbers, and special characters), and checkCellPhoneNumber (validating South African international formats like +27).
+Built using Apache NetBeans and compatible with online compilers like OneCompiler, the system includes a comprehensive LoginTest suite to verify all security constraints and login functionalities against provided test cases.
